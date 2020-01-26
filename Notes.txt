@@ -1,0 +1,15 @@
+npm install -g @angular/cli
+
+ng --version
+
+ng new hello-world
+
+ng serve
+
+npm install -g typescript
+
+tsc --version
+
+ng g c course
+
+ng g s email
