@@ -16,3 +16,8 @@ const ColorBlue = 2;
 enum Color { Red = 1, Green, Blue };
 let backgroundColor = Color[0];
 console.log(backgroundColor);
+
+let message;
+message = 'abc';
+let endsWithC = (<string>message).endsWith('c'); // Type assertion
+let alternativeWay = (message as string).endsWith('c');
