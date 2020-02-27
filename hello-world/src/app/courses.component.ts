@@ -71,7 +71,7 @@ export class CoursesComponent {
   }
 
   onKeyUp($event: Event, value: string) {
-    console.log("ENTER was pressed.", $event.target.value, value);
+    console.log("ENTER was pressed.", $event.target, value);
   }
   
   onFirstNameEntered() {
