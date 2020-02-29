@@ -1,6 +1,0 @@
-INFO  started: Metals version 0.8.0 in workspace 'D:\Practice\Angular\angular-study'
-INFO  time: initialize in 4.14s
-WARN  no build tool detected in workspace 'D:\Practice\Angular\angular-study'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
-Feb 12, 2020 6:33:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
-INFO: Unsupported notification method: $/setTraceNotification
-INFO  shutting down Metals
