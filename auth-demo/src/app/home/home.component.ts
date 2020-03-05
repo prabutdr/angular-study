@@ -10,5 +10,4 @@ export class HomeComponent {
 
   constructor(private authService: AuthService) { }
 
-  logout()
 }
